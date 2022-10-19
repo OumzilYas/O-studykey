@@ -17473,7 +17473,7 @@ A.a8l(o,!1)
 n=t.N
 m=t.K
 l=t.z
-k=B.am.mY(A.aI(["oStudyData",A.aI(["room",A.aI(["id","6766","name","OSxE","code","LvH7E2c4a","date",p,"ExpiryDate",o,"duration",365],n,m),"rooms",A.a([A.aI(["roomName","English","roomInfo",A.aI(["meet","https://meet.google.com/bod-zxjp-mct","bag","https://bit.ly/3MoikP7","board","https://bit.ly/3HEJ0YP","handBook","https://bit.ly/3JslPD7","woorkBook","https://bit.ly/3elWHnd"],n,n),"teacherInfo",A.aI(["email","ET1@ostudy.com","phone","+212622682457","group","https://t.me/s/ostudyxenglish"],n,n)],n,m)],t.Mq),"oStudyInfo",A.aI(["email","oumzilyassin@gmail.com","instagram","https://bit.ly/3Mq4YlZ","appLink","https://bit.ly/3sI0v6g","phone","+212655139527"],n,n)],n,m)],l,l))
+k=B.am.mY(A.aI(["oStudyData",A.aI(["room",A.aI(["id","6766","name","OSxE","code","LvH7E2c4a","date",p,"ExpiryDate",o,"duration",365],n,m),"rooms",A.a([A.aI(["roomName","English","roomInfo",A.aI(["meet","https://meet.google.com/bod-zxjp-mct","bag","https://bit.ly/3MoikP7","board","https://miro.com/app/board/uXjVPLiUVc4=/?share_link_id=374376015949","handBook","https://bit.ly/3JslPD7","woorkBook","https://bit.ly/3elWHnd"],n,n),"teacherInfo",A.aI(["email","ET1@ostudy.com","phone","+212622682457","group","https://t.me/s/ostudyxenglish"],n,n)],n,m)],t.Mq),"oStudyInfo",A.aI(["email","oumzilyassin@gmail.com","instagram","https://bit.ly/3Mq4YlZ","appLink","https://bit.ly/3sI0v6g","phone","+212655139527"],n,n)],n,m)],l,l))
 l=new Uint8Array(A.ia(B.I.giO().d1("my 32 length key................")))
 j=new A.TA(new Uint8Array(16))
 p="AES/"+A.h(B.BM.i(0,B.jT))+"/PKCS7"
@@ -53981,7 +53981,7 @@ r=q.gkN(q)
 s.saS(t.IT.a(r.gG(r).gab()))}else r.a(A.eu.prototype.gab.call(q)).saS(null)}}
 A.DI.prototype={
 Y(a,b){A.a0R(A.a([B.xk,B.xl],t.UW))
-return new A.v5(B.C5,"Flutter Demo",A.aeI(null,B.q3),!1,null)}}
+return new A.v5(B.C5,"O-STUDY KEY",A.aeI(null,B.q3),!1,null)}}
 A.vl.prototype={
 aQ(){return new A.yu(A.aeF(),B.aM,B.o)}}
 A.yu.prototype={
